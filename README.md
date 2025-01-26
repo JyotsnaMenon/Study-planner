@@ -43,6 +43,9 @@ Implementation
 
  project link- https://github.com/JyotsnaMenon/Study-planner.git
 
+ username -jyotsna
+ password-123456
+ 
 Team Contributions
 Akshayalakshmi K -Frontend
  Sreelakshmi K S - Frontend
